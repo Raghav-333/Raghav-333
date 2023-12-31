@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently working on a python project
+I'm currently learning web dev and django
+You can ask me about python 
+Fun faact: I started programming since my 5th grade
